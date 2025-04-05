@@ -19,4 +19,4 @@
 ## 🚀 Usage
 
 ```bash
-sudo python3 bandiot.py
+sudo python3 pandiot.py
